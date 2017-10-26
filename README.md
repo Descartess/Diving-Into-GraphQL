@@ -45,7 +45,10 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-
+9. Access the server at
+```
+http://localhost:5000/graphql
+```
 ### Making Queries
 
 Querying user and  the particular information from the graphql server
