@@ -1,0 +1,76 @@
+{
+    "users": [
+        {
+            "id": 39330,
+            "username": "RCraig",
+            "address": {
+                "streetAddress": "1675 Augue St",
+                "city": "Wilmington",
+                "state": "KS",
+                "zip": "41219"
+            },
+            "email": "WRussell@dolor.gov",
+            "teamId": 0
+        },
+        {
+            "id": 39331,
+            "username": "AHohmann",
+            "address": {
+                "streetAddress": "3758 Sollicitudin Dr",
+                "city": "Woodlawn",
+                "state": "CO",
+                "zip": "54654"
+            },
+            "email": "AMarina@sapien.com",
+            "teamId": 0
+        },
+        {
+            "id": 39332,
+            "username": "RBoyd",
+            "address": {
+                "streetAddress": "3617 Amet Rd",
+                "city": "Owensboro",
+                "state": "FL",
+                "zip": "54524"
+            },
+            "email": "WAyers@fringilla.net",
+            "teamId": 0
+        },
+        {
+            "id": 39333,
+            "username": "SMarina",
+            "address": {
+                "streetAddress": "6719 Sollicitudin Ct",
+                "city": "Seven Mile",
+                "state": "KS",
+                "zip": "40439"
+            },
+            "email": "AMaher@tempor.io",
+            "teamId": 2
+        },
+        {
+            "id": 39334,
+            "username": "SFrutos",
+            "address": {
+                "streetAddress": "772 Convallis Ct",
+                "city": "Saltilo",
+                "state": "IL",
+                "zip": "26199"
+            },
+            "email": "FBishop@sit.org",
+            "teamId": 2
+        }
+    ],
+    "teams": [
+        {
+            "id": 0,
+            "profile": "turpis magna mattis id risus",
+            "name": "Keirns Foods"
+        },
+        {
+            "id": 2,
+            "profile": "suspendisse sit sed vestibulum pulvinar",
+            "name": "Darling Technologies"
+        }
+    ]
+}
