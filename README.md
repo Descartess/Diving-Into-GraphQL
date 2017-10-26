@@ -1,6 +1,6 @@
 ## Diving Into GraphQL
 
-Core concepts of GraphQL with implements in both Python and Javascript.
+Core concepts of GraphQL with implementations in both Python and Javascript.
 
 ### Getting Started
 
