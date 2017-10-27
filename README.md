@@ -35,6 +35,10 @@ http://localhost:4000/graphiql
 ```
 cd python-server 
 virtualenv -python=python3 venv
+
+# Activate virtual environment
+source venv/bin/activate
+
 ```
 7. Install dependecies
 ```
