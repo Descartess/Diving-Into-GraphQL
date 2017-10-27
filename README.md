@@ -66,6 +66,8 @@ Querying user and  the particular information from the graphql server
 }
 ```
 
+Quick Demo. 
+![Querying data with GraphiQL](/images/Diving-into-GraphQL.gif?raw=true "Final Output")
 
 
 
